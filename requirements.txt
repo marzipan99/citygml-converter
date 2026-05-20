@@ -1,0 +1,4 @@
+lxml>=4.9
+numpy>=1.24
+mcschematic>=0.0.3
+mapbox-earcut>=1.0.0
